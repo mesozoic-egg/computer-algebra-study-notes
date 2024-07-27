@@ -1,0 +1,1 @@
+# Study notes for "Computer Algebra - Concepts and Techniques" by Edmund A. Lamagna
